@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\bin\Debug\netcoreapp2.1\GCLabsinone.deps.json
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\bin\Debug\netcoreapp2.1\GCLabsinone.runtimeconfig.json
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\bin\Debug\netcoreapp2.1\GCLabsinone.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\bin\Debug\netcoreapp2.1\GCLabsinone.dll
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\bin\Debug\netcoreapp2.1\GCLabsinone.pdb
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.dll
+C:\Users\Eliza\source\repos\Lab1\GCLabsinone\obj\Debug\netcoreapp2.1\GCLabsinone.pdb
